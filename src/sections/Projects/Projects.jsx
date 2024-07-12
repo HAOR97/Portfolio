@@ -14,7 +14,7 @@ function Projects() {
       <div className={styles.projectsContainer}>
         <ProjectCard link={"https://github.com/HAOR97/hairstudio-front"} h3="Barberinjo" p="Barber App" src={barberinjo} />
         <ProjectCard link={"https://github.com/HAOR97/Baskett_Quiz"} h3="Top 5" p="Basketball quiz" src={top5} />
-        <ProjectCard link={"https://github.com/HAOR97/Weather-App"} h3="Clods" p="Weather App" src={clods} />
+        <ProjectCard link={"https://github.com/HAOR97/Weather-App"} h3="Clouds" p="Weather App" src={clods} />
         <ProjectCard link={"https://github.com/HAOR97/Hangman"} h3="Hangman" p="Hangman App" src={hangman} />
       </div>
     </section>
