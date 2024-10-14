@@ -36,10 +36,10 @@ function Hero() {
         </h1>
         <h2>Web Developer</h2>
         <span>
-          <a href="https://github.com/" target="_blank">
+          <a href="https://github.com/HAOR97" target="_blank">
             <img src={githubIcon} alt="GitHub icon" />
           </a>
-          <a href="https://linkedin.com/" target="_blank">
+          <a href="https://www.linkedin.com/in/lazar-kostic/" target="_blank">
             <img src={linkedinIcon} alt="Linkedin icon" />
           </a>
         </span>
