@@ -15,7 +15,7 @@ export default function Skills() {
       </div>
       <hr />
       <div className={styles.skillList}>
-        <SkillList src={checkMarkIcon} skill="Node" />
+        <SkillList src={checkMarkIcon} skill="Node JS" />
         <SkillList src={checkMarkIcon} skill=".NET" />
         <SkillList src={checkMarkIcon} skill="GIT" />
         <SkillList src={checkMarkIcon} skill="SQL" />
@@ -25,6 +25,7 @@ export default function Skills() {
       <div className={styles.skillList}>
         <SkillList src={checkMarkIcon} skill="ReactNative" />
         <SkillList src={checkMarkIcon} skill="Docker" />
+        <SkillList src={checkMarkIcon} skill=".NET" />
         <SkillList src={checkMarkIcon} skill="C#" />
       </div>
     </section>
